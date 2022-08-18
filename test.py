@@ -1,0 +1,1 @@
+print("\n".join([" ".join(map(str,range(1,i))) for i in range(6,1,-1)]))

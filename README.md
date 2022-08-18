@@ -1,6 +1,9 @@
 # CPP-ryptography
 This is program is a cpp solver to find the minimum cost to find a combination where the diffusion on a feistel network with k blocks is maximum
 
+## CAREFUL 
+This is a proof of concept, and was for me the first time is used c++ in a project. Result must not be taken as a solution (results not proved).
+
 ## Generate Partitions of chains and cycles  with k pairs of blocks
 it is generating all the possible combinations of k pairs of blocks and storing them in a vector of pairs containing vector of chains and cycles storing it in a file : partitions/part-k.txt
 ```bash

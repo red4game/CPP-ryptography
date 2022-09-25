@@ -26,3 +26,5 @@ the markdowns with solutions are visible in the folder markdowns/k-nodes/solutio
 ```bash
 ./solve <k : number of pairs> <r : cost of path> (facultative):<id : archive with skeletons graphs with k pairs>
 ```
+
+# TO CONTINUE ...
